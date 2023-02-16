@@ -1,0 +1,24 @@
+{
+  "name": "mockServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AariF-ShazZ/mockServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AariF-ShazZ/mockServer/issues"
+  },
+  "homepage": "https://github.com/AariF-ShazZ/mockServer#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
